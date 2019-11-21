@@ -1,4 +1,4 @@
-/*Dashawn smith
+/*Dimitri smith
  * 
  */
 import java.util.Scanner;
