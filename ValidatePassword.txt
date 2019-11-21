@@ -11,8 +11,7 @@
    If the password is valid the result will display "Valid Password." If not the result will
    display an appropriate error message.
 
-   Author: Daniel
-   Channel: BasementProgramming
+  
 
 */
 
